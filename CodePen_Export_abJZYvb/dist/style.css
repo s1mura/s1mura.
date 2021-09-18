@@ -1,0 +1,19 @@
+h2 {
+  margin: auto;
+}
+
+div {
+  margin-top: 10px;
+  text-align: center;
+}
+
+#container {
+  width: auto;
+}
+
+#header {
+  background: #6F1FFF ;
+  height: 700px;
+}
+
+}
